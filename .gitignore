@@ -1,0 +1,18 @@
+node_modules/
+# Python Virtual Environment (The most important one!)
+venv/
+env/
+
+# Python compiled files
+__pycache__/
+*.pyc
+
+# Data files (Optional: Usually you don't commit large data or zips)
+data/
+*.zip
+
+# Logs
+*.log
+
+# System files
+.DS_Store
